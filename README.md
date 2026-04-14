@@ -33,7 +33,7 @@ I am a 19-year-old Information Systems student and a Python Back-End enthusiast.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ technologies and tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,django,mysql,css,html,vscode" width="350px" alt="Minhas Tecnologias">
@@ -42,5 +42,5 @@ I am a 19-year-old Information Systems student and a Python Back-End enthusiast.
 
 ---
 
-### 📫 Como me encontrar:
+### 📫 where to find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-gabriel12/)
