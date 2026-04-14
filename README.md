@@ -17,7 +17,6 @@ I am a 19-year-old Information Systems student and a Python Back-End enthusiast.
         <ul>
           <li>Python & Django</li>
           <li>MySQL / SQLite</li>
-          <li>API Development</li>
         </ul>
       </td>
       <td width="50%" valign="top">
@@ -37,16 +36,9 @@ I am a 19-year-old Information Systems student and a Python Back-End enthusiast.
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,mysql,css,html,git,vscode" width="350px" alt="Minhas Tecnologias">
+  <img src="https://skillicons.dev/icons?i=py,django,mysql,css,html,,vscode" width="350px" alt="Minhas Tecnologias">
 </div>
 
----
-
-## 📊 Estatísticas
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Malevus2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malevus2&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 
 ---
 
