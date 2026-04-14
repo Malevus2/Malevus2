@@ -36,7 +36,7 @@ I am a 19-year-old Information Systems student and a Python Back-End enthusiast.
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,mysql,css,html,,vscode" width="350px" alt="Minhas Tecnologias">
+  <img src="https://skillicons.dev/icons?i=py,django,mysql,css,html,vscode" width="350px" alt="Minhas Tecnologias">
 </div>
 
 
