@@ -23,8 +23,6 @@ I am a 19-year-old Information Systems student and a Python Back-End enthusiast.
         <h3>🎨 FRONT-END</h3>
         <ul>
           <li>HTML5 & CSS3</li>
-          <li>Flexbox & Grid</li>
-          <li>Modern UI/UX</li>
         </ul>
       </td>
     </tr>
